@@ -1,0 +1,21 @@
+{
+  "name": "select2-es6-module-shim",
+  "version": "0.0.1",
+  "authors": [
+    "pangratz <cmueller.418@gmail.com>"
+  ],
+  "description": "ES6 module shim for select2",
+  "main": "select2-shim.js",
+  "license": "MIT",
+  "homepage": "https://github.com/pangratz/select2-es6-module-shim",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2": "~4.0.0"
+  }
+}
